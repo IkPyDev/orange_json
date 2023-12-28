@@ -1,0 +1,280 @@
+{
+    "user": {
+        "username": "Ikpydev",
+        "avatar": "https://avatars.githubusercontent.com/u/6100743?v=4",
+        "email": "Ikpydev@gmail.com",
+        "first_name": "Ikrombek",
+        "last_name": "Olloberdiyev"
+    },
+    "banners": [
+        {
+            "image": "https://i.imgur.com/ErYds8l.png",
+            "category": {
+                "id": "asxsaxas",
+                "title": "Fruits",
+                "count": 114,
+                "image": "https://fsd.multiurok.ru/html/2019/06/15/s_5d054bbfe1a6a/1173659_5.png"
+            }
+        },
+        {
+            "image": "https://i.imgur.com/dgyGNtx.png",
+            "category": {
+                "id": "scsbhcwec",
+                "title": "Fruits",
+                "count": 114,
+                "image": "https://fsd.multiurok.ru/html/2019/06/15/s_5d054bbfe1a6a/1173659_5.png"
+            }
+        },
+        {
+            "image": "https://i.imgur.com/Mx3bAoB.png",
+            "category": {
+                "id": "scsbhcwec",
+                "title": "Fruits",
+                "count": 114,
+                "image": "https://fsd.multiurok.ru/html/2019/06/15/s_5d054bbfe1a6a/1173659_5.png"
+            }
+        },
+        {
+            "image": "https://i.imgur.com/huwq8T7.png",
+            "products": {
+                "id": "scsbhcwec",
+                "image": "https://fsd.multiurok.ru/html/2019/06/15/s_5d054bbfe1a6a/1173659_5.png",
+                "favorite": false,
+                "title": "Strawberry",
+                "rating": 4.33,
+                "rating_count": 127,
+                "price": 15,
+                "discount": 4
+            }
+        }
+    ],
+    "categories": [
+        {
+            "id": "fruits",
+            "title": "Fruits",
+            "count": 111,
+            "image": "https://imgur.com/GBhAHoJ"
+        },
+        {
+            "id": "chicken",
+            "title": "Chicken",
+            "count": 89,
+            "image": "https://i.imgur.com/cG3ckYr.png"
+        },
+        {
+            "id": "fish",
+            "title": "Fresh Fish",
+            "count": 224,
+            "image": "https://i.imgur.com/kElnfXL.png"
+        },
+        {
+            "id": "ice_crem",
+            "title": "Ice Cream",
+            "count": 117,
+            "image": "https://i.imgur.com/tnGB3Df.png"
+        },
+        {
+            "id": "bread",
+            "title": "Beard",
+            "count": 124,
+            "image": "https://i.imgur.com/DbthUVD.png"
+        }
+    ],
+    "sections": [
+        {
+            "id": "csecscsdc",
+            "title": "Popular deals",
+            "type": "horizontal",
+            "products": [
+                {
+                    "id": "banana",
+                    "image": "https://img.freepik.com/premium-photo/studio-shot-bananas-bunch-isolated-white-background_220507-22658.jpg",
+                    "favorite": false,
+                    "title": "Banana",
+                    "rating": 4.5,
+                    "rating_count": 150,
+                    "price": 10,
+                    "discount": 3
+                },
+                {
+                    "id": "apple",
+                    "image": "https://img.freepik.com/free-photo/red-apple-with-green-leaf-white-background_1232-3290.jpg",
+                    "favorite": false,
+                    "title": "Apple",
+                    "rating": 4.7,
+                    "rating_count": 120,
+                    "price": 8,
+                    "discount": 2
+                },
+                {
+                    "id": "kiwi",
+                    "image": "https://i.imgur.com/XcJZGYu.png",
+                    "favorite": false,
+                    "title": "Kiwi",
+                    "rating": 4.8,
+                    "rating_count": 135,
+                    "price": 12,
+                    "discount": 3
+                },
+                {
+                    "id": "orange",
+                    "image": "https://img.freepik.com/premium-photo/orange-fruit-orang-slice-isolate-white-background_42033-220.jpg",
+                    "favorite": false,
+                    "title": "Orange",
+                    "rating": 4.6,
+                    "rating_count": 110,
+                    "price": 9,
+                    "discount": 2
+                },
+                {
+                    "id": "pear",
+                    "image": "https://img.freepik.com/premium-photo/pear-with-green-spot-front_873925-170640.jpg",
+                    "favorite": false,
+                    "title": "Pear",
+                    "rating": 4.5,
+                    "rating_count": 105,
+                    "price": 10,
+                    "discount": 2
+                },
+                {
+                    "id": "mango",
+                    "image": "https://img.freepik.com/premium-photo/fresh-mango-fruit-with-cut-green-leafs-isolated_80510-1011.jpg",
+                    "favorite": false,
+                    "title": "Mango",
+                    "rating": 4.8,
+                    "rating_count": 120,
+                    "price": 14,
+                    "discount": 3
+                },
+                {
+                    "id": "avocado",
+                    "image": "https://i.pinimg.com/originals/70/59/24/705924462a53e5c94be4749dbbf0f303.jpg",
+                    "favorite": false,
+                    "title": "Avocado",
+                    "rating": 4.6,
+                    "rating_count": 110,
+                    "price": 12,
+                    "discount": 2
+                },
+                {
+                    "id": "apricot",
+                    "image": "https://img.freepik.com/premium-photo/apricot-fruit-with-isolated-white-background_741910-10952.jpg",
+                    "favorite": false,
+                    "title": "Apricot",
+                    "rating": 4.5,
+                    "rating_count": 105,
+                    "price": 9,
+                    "discount": 2
+                },
+                {
+                    "id": "cherry",
+                    "image": "https://5.imimg.com/data5/SELLER/Default/2022/11/QO/TY/CA/162935399/fresh-red-cherry-500x500.jpg",
+                    "favorite": false,
+                    "title": "Cherry",
+                    "rating": 4.7,
+                    "rating_count": 115,
+                    "price": 11,
+                    "discount": 2
+                }
+            ]
+        },
+        {
+            "id": "csecscsdc",
+            "title": "All grouse",
+            "type": "vertical",
+            "products": [
+                {
+                    "id": "banana",
+                    "image": "https://img.freepik.com/premium-photo/studio-shot-bananas-bunch-isolated-white-background_220507-22658.jpg",
+                    "favorite": false,
+                    "title": "Banana",
+                    "rating": 4.5,
+                    "rating_count": 150,
+                    "price": 10,
+                    "discount": 3
+                },
+                {
+                    "id": "apple",
+                    "image": "https://img.freepik.com/free-photo/red-apple-with-green-leaf-white-background_1232-3290.jpg",
+                    "favorite": false,
+                    "title": "Apple",
+                    "rating": 4.7,
+                    "rating_count": 120,
+                    "price": 8,
+                    "discount": 2
+                },
+                {
+                    "id": "kiwi",
+                    "image": "https://i.imgur.com/XcJZGYu.png",
+                    "favorite": false,
+                    "title": "Kiwi",
+                    "rating": 4.8,
+                    "rating_count": 135,
+                    "price": 12,
+                    "discount": 3
+                },
+                {
+                    "id": "orange",
+                    "image": "https://img.freepik.com/premium-photo/orange-fruit-orang-slice-isolate-white-background_42033-220.jpg",
+                    "favorite": false,
+                    "title": "Orange",
+                    "rating": 4.6,
+                    "rating_count": 110,
+                    "price": 9,
+                    "discount": 2
+                },
+                {
+                    "id": "pear",
+                    "image": "https://img.freepik.com/premium-photo/pear-with-green-spot-front_873925-170640.jpg",
+                    "favorite": false,
+                    "title": "Pear",
+                    "rating": 4.5,
+                    "rating_count": 105,
+                    "price": 10,
+                    "discount": 2
+                },
+                {
+                    "id": "mango",
+                    "image": "https://img.freepik.com/premium-photo/fresh-mango-fruit-with-cut-green-leafs-isolated_80510-1011.jpg",
+                    "favorite": false,
+                    "title": "Mango",
+                    "rating": 4.8,
+                    "rating_count": 120,
+                    "price": 14,
+                    "discount": 3
+                },
+                {
+                    "id": "avocado",
+                    "image": "https://i.pinimg.com/originals/70/59/24/705924462a53e5c94be4749dbbf0f303.jpg",
+                    "favorite": false,
+                    "title": "Avocado",
+                    "rating": 4.6,
+                    "rating_count": 110,
+                    "price": 12,
+                    "discount": 2
+                },
+                {
+                    "id": "apricot",
+                    "image": "https://img.freepik.com/premium-photo/apricot-fruit-with-isolated-white-background_741910-10952.jpg",
+                    "favorite": false,
+                    "title": "Apricot",
+                    "rating": 4.5,
+                    "rating_count": 105,
+                    "price": 9,
+                    "discount": 2
+                },
+                {
+                    "id": "cherry",
+                    "image": "https://5.imimg.com/data5/SELLER/Default/2022/11/QO/TY/CA/162935399/fresh-red-cherry-500x500.jpg",
+                    "favorite": false,
+                    "title": "Cherry",
+                    "rating": 4.7,
+                    "rating_count": 115,
+                    "price": 11,
+                    "discount": 2
+                }
+            ]
+        }
+    ],
+    "notification_count": 7
+}
